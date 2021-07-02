@@ -69,7 +69,18 @@ yarn test
 ```
 
 ## 🎈 Usage <a name="usage"></a>
-TODO - Add pictures with usage
+
+The landing page dashboard contains your upcoming tasks and your available boards. You can click on the boards or tasks.
+
+<img height='400px' src="https://i.imgur.com/fgE94Wh.png">
+
+Expand each task to add description or date attributes and modify the initial content. You can drag and drop columns, or tasks.
+
+<img height='400px' src="https://i.imgur.com/egRaDIj.png">
+
+Access the calendar from the left hand drawer to keep track of upcoming tasks across all boards.
+
+<img height='400px' src="https://i.imgur.com/wuF37l2.png">
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
