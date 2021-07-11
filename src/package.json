@@ -1,0 +1,18 @@
+{
+  "name": "LocalBoard",
+  "productName": "LocalBoard",
+  "version": "1.0.0",
+  "description": "When your internet sucks, you can count on LocalBoard!",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "Devin Ramsammy",
+    "email": "devinramsammy0@gmail.com",
+    "url": "https://github.com/devinramsammy/"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r ../.erb/scripts/BabelRegister.js ../.erb/scripts/ElectronRebuild.js",
+    "postinstall": "yarn electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
